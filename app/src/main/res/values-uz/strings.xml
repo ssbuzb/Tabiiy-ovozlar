@@ -1,0 +1,169 @@
+<resources>
+    <string name="app_name">Nature Calm</string>
+
+    <!-- Navigation & Tabs -->
+    <string name="nav_home">Asosiy</string>
+    <string name="nav_mixer">Mikser</string>
+    <string name="nav_library">Kutubxona</string>
+    <string name="nav_favorites">Sevimlilar</string>
+    <string name="nav_ai_alchemist">AI Muhit</string>
+    <string name="nav_settings">Sozlamalar</string>
+
+    <!-- Greetings & Headers -->
+    <string name="greeting_morning">Xayrli tong</string>
+    <string name="greeting_afternoon">Xayrli kun</string>
+    <string name="greeting_evening">Xayrli oqshom</string>
+    <string name="greeting_night">Xayrli tun</string>
+    <string name="home_subtitle">Bugun qanday muhit kerak?</string>
+    <string name="sound_of_the_day">Kun ovozi</string>
+    <string name="todays_atmosphere">Bugungi tavsiya etilgan muhit</string>
+    <string name="recommended_for_you">Siz uchun tavsiyalar</string>
+    <string name="quick_mixes">Tezkor mikslar</string>
+
+    <!-- Sound Control Actions -->
+    <string name="action_play">Ijro etish</string>
+    <string name="action_pause">To\'xtatish</string>
+    <string name="action_resume">Davom ettirish</string>
+    <string name="action_stop">Yakunlash</string>
+    <string name="action_volume">Ovoz balandligi</string>
+    <string name="action_favorite">Sevimlilarga qo\'shish</string>
+    <string name="action_unfavorite">Sevimlilardan o\'chirish</string>
+    <string name="action_save_preset">Miksni saqlash</string>
+    <string name="action_apply">Qo\'llash</string>
+    <string name="action_cancel">Bekor qilish</string>
+    <string name="action_save">Saqlash</string>
+    <string name="action_delete">O\'chirish</string>
+    <string name="action_edit">Tahrirlash</string>
+    <string name="action_reset">Qaytarish</string>
+    <string name="action_search">Tovushlarni qidirish...</string>
+    <string name="action_skip">O\'tkazib yuborish</string>
+    <string name="action_next">Keyingisi</string>
+    <string name="action_get_started">Boshlash</string>
+
+    <!-- Sleep Timer -->
+    <string name="sleep_timer">Uyqu taymeri</string>
+    <string name="timer_off">Taymer o\'chiq</string>
+    <string name="timer_active">Taymer faol</string>
+    <string name="timer_10_min">10 daqiqa</string>
+    <string name="timer_20_min">20 daqiqa</string>
+    <string name="timer_30_min">30 daqiqa</string>
+    <string name="timer_45_min">45 daqiqa</string>
+    <string name="timer_60_min">60 daqiqa</string>
+    <string name="timer_90_min">90 daqiqa</string>
+    <string name="timer_2_hours">2 soat</string>
+    <string name="timer_custom">Boshqa vaqt</string>
+    <string name="timer_fade_out">Sekin pasaytirib o\'chirish</string>
+    <string name="timer_fade_out_desc">Oxirgi 5 daqiqada tovush sekin pasayib boradi</string>
+    <string name="timer_remaining">Qolgan vaqt</string>
+    <string name="timer_cancel">Taymerni bekor qilish</string>
+    <string name="enter_custom_minutes">Daqiqani kiriting (1–360)</string>
+
+    <!-- Sound Mixer -->
+    <string name="mixer_title">Tovushlar Mikseri</string>
+    <string name="mixer_subtitle">O\'zingiz uchun orombaxsh sokin muhit yaratish uchun tovushlarni birlashtiring</string>
+    <string name="master_volume">Umumiy ovoz</string>
+    <string name="active_sounds_count">%1$d ta faol tovush</string>
+    <string name="no_active_sounds">Mikserda hali faol tovush yo\'q</string>
+    <string name="tap_to_add_sounds">Tovush qo\'shish uchun quyidagi kartalarni bosing</string>
+    <string name="preset_saved_success">Miks muvaffaqiyatli saqlandi</string>
+    <string name="preset_name_hint">Miks nomi (masalan: Tinch uyqu)</string>
+    <string name="delete_preset_confirm">\'%1$s\' miksi o\'chirilsinmi?</string>
+
+    <!-- Presets -->
+    <string name="preset_deep_sleep">Chuqur uyqu</string>
+    <string name="preset_study_mode">Diqqatni jamlash</string>
+    <string name="preset_rainy_night">Yomg\'irli tun</string>
+    <string name="preset_cozy_evening">Issiq oqshom</string>
+    <string name="preset_forest_morning">O\'rmon tongi</string>
+    <string name="preset_peaceful_meditation">Orom meditatsiyasi</string>
+
+    <!-- Sounds List -->
+    <string name="sound_gentle_rain">Yengil yomg\'ir</string>
+    <string name="sound_gentle_rain_desc">Yashil barglarga ohista tomayotgan sokin yomg\'ir tomchilari</string>
+    <string name="sound_heavy_rain">Kuchli yomg\'ir va momaqaldiroq</string>
+    <string name="sound_heavy_rain_desc">Uzoqdan eshitiluvchi momaqaldiroq va orombaxsh jala</string>
+    <string name="sound_forest">Yashil o\'rmon</string>
+    <string name="sound_forest_desc">Qarag\'ay shoxlarining shitirlashi va tabiat nafasi</string>
+    <string name="sound_ocean">Okean to\'lqinlari</string>
+    <string name="sound_ocean_desc">Tinch sohilga ohista urilayotgan dengiz to\'lqinlari</string>
+    <string name="sound_river">Daryo va sharshara</string>
+    <string name="sound_river_desc">Tog\' toshlaridan oqib tushayotgan musaffo suv oqimi</string>
+    <string name="sound_wind">Mayin shabada</string>
+    <string name="sound_wind_desc">Tog\' va vodiylardan esayotgan xushbo\'y sokin shamol</string>
+    <string name="sound_birds">Qushlar sayrashi</string>
+    <string name="sound_birds_desc">Daraxtlar tepasida tonggi qushlarning mayin kuyi</string>
+    <string name="sound_fireplace">Issiq kamin</string>
+    <string name="sound_fireplace_desc">O\'tinlarning muloyim qirsillashi va shinam olov harorati</string>
+    <string name="sound_night_nature">Tungi tabiat</string>
+    <string name="sound_night_nature_desc">Yulduzli osmon ostida chigirtkalarning yoqimli sadosi</string>
+    <string name="sound_rainy_cafe">Yomg\'irli qahvaxona</string>
+    <string name="sound_rainy_cafe_desc">Deraza ortida yomg\'ir yog\'ayotgan shinam qahvaxona muhiti</string>
+    <string name="sound_rain_window">Derazadagi yomg\'ir</string>
+    <string name="sound_rain_window_desc">Xona oynasiga urilayotgan yomg\'ir tomchilarining ritmi</string>
+    <string name="sound_peaceful_garden">Tinch bog\'</string>
+    <string name="sound_peaceful_garden_desc">Yengil shamolda jiringlayotgan sokin qo\'ng\'iroqlar va bog\'</string>
+
+    <!-- Onboarding -->
+    <string name="onboarding_1_title">Tabiat bilan hordiq chiqaring</string>
+    <string name="onboarding_1_desc">Dam olish, diqqatni jamlash va ruhiy xotirjamlik uchun mo\'ljallangan haqiqiy tabiat sadolariga sho\'ng\'ing.</string>
+    <string name="onboarding_2_title">O\'z muhitingizni yarating</string>
+    <string name="onboarding_2_desc">Yomg\'ir, shamol, olov va o\'rmon tovushlarini alohida ovoz sozlamalari bilan birlashtiring.</string>
+    <string name="onboarding_3_title">Uxlang, diqqatni jamlang va dam oling</string>
+    <string name="onboarding_3_desc">Sekin pasayuvchi aqlli uyqu taymerini o\'rnating va ekran o\'chiqligida ham tovushlardan bahramand bo\'ling.</string>
+
+    <!-- AI Alchemist -->
+    <string name="ai_alchemist_title">AI Tovush Alximigi</string>
+    <string name="ai_alchemist_subtitle">Qanday his qilayotganingizni yozing, Gemini siz uchun maxsus miks va tavsiya tayyorlaydi</string>
+    <string name="ai_prompt_hint">Masalan: Ertaga imtihonim bor, xotirjamlik bilan diqqatimni jamlamoqchiman...</string>
+    <string name="ai_chip_deep_sleep">Chuqur uyqu</string>
+    <string name="ai_chip_study_focus">Dars va diqqat</string>
+    <string name="ai_chip_anxiety_relief">Stressdan xalos bo\'lish</string>
+    <string name="ai_chip_cabin_rain">Shinam uy va yomg\'ir</string>
+    <string name="ai_generate_button">Muhit yaratish</string>
+    <string name="ai_generating">Siz uchun maxsus sokinlik yaratilmoqda...</string>
+    <string name="ai_apply_and_play">Mikserga qo\'llash va ijro etish</string>
+
+    <!-- Settings -->
+    <string name="settings_title">Sozlamalar</string>
+    <string name="section_preferences">Afzalliklar</string>
+    <string name="section_audio">Ovoz va ijro</string>
+    <string name="section_system">Tizim va ma\'lumot</string>
+    <string name="setting_language">Til</string>
+    <string name="setting_theme">Mavzu</string>
+    <string name="theme_dark">Tungi rejim</string>
+    <string name="theme_light">Kunduzgi rejim</string>
+    <string name="theme_system">Tizim holati bo\'yicha</string>
+    <string name="setting_battery_saver">Batareyani tejash rejimi</string>
+    <string name="setting_battery_saver_desc">Ovoz to\'xtovsiz yangrashi uchun vizual effektlarni to\'xtatadi</string>
+    <string name="setting_animations">Animatsiyalar</string>
+    <string name="setting_animations_desc">Asosiy ekranda yomg\'ir, to\'lqin va mayin zarralar animatsiyasi</string>
+    <string name="setting_audio_engine">Ovoz mexanizmi</string>
+    <string name="setting_audio_engine_desc">Yuqori sifatli 44.1kHz uzluksiz protsedurali sintez</string>
+    <string name="setting_about">Nature Calm haqida</string>
+    <string name="setting_version">Versiya 1.0.0 (Rasmiy nashr)</string>
+    <string name="setting_privacy">Maxfiylik siyosati</string>
+    <string name="setting_privacy_desc">Barcha tovushlar va saqlangan mikslar faqat qurilmangizda saqlanadi.</string>
+
+    <!-- Library & Favorites -->
+    <string name="library_title">Tovushlar kutubxonasi</string>
+    <string name="favorites_title">Sevimlilaringiz</string>
+    <string name="favorites_empty_title">Hali sevimli tovushlar yo\'q</string>
+    <string name="favorites_empty_desc">O\'zingizga yoqqan tovush yoki miksni yurakchani bosib bu yerga saqlashingiz mumkin.</string>
+    <string name="filter_all">Barchasi</string>
+    <string name="filter_rain">Yomg\'ir</string>
+    <string name="filter_nature">Tabiat</string>
+    <string name="filter_ambient">Atrof-muhit</string>
+    <string name="search_no_results">\"%1$s\" bo\'yicha hech narsa topilmadi</string>
+
+    <!-- Service / Notifications -->
+    <string name="notification_channel_name">Nature Calm ijrosi</string>
+    <string name="notification_channel_desc">Faol orombaxsh tovushlarni boshqarish paneli</string>
+    <string name="notification_playing">Nature Calm yangramoqda</string>
+    <string name="notification_paused">Ijro to\'xtatildi</string>
+
+    <!-- Visualizer & Status -->
+    <string name="visualizer_label">Atmosfera rezonansi</string>
+    <string name="offline_ready">100% Internetsiz ishlaydi</string>
+    <string name="loop_continuous">Uzluksiz oqim</string>
+    <string name="session_duration">Sessiya vaqti: %1$s</string>
+</resources>

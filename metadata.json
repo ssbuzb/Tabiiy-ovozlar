@@ -1,0 +1,6 @@
+{
+  "name": "Nature Calm",
+  "description": "Relaxing nature soundscapes, ambient sound mixer, sleep timer, and AI relaxation assistant.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

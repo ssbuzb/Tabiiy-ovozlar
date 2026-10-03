@@ -1,0 +1,169 @@
+<resources>
+    <string name="app_name">Nature Calm</string>
+
+    <!-- Navigation & Tabs -->
+    <string name="nav_home">Главная</string>
+    <string name="nav_mixer">Микшер</string>
+    <string name="nav_library">Библиотека</string>
+    <string name="nav_favorites">Избранное</string>
+    <string name="nav_ai_alchemist">AI Атмосфера</string>
+    <string name="nav_settings">Настройки</string>
+
+    <!-- Greetings & Headers -->
+    <string name="greeting_morning">Доброе утро</string>
+    <string name="greeting_afternoon">Добрый день</string>
+    <string name="greeting_evening">Добрый вечер</string>
+    <string name="greeting_night">Доброй ночи</string>
+    <string name="home_subtitle">Какая атмосфера вам нужна?</string>
+    <string name="sound_of_the_day">Звук дня</string>
+    <string name="todays_atmosphere">Рекомендуемая атмосфера дня</string>
+    <string name="recommended_for_you">Рекомендовано вам</string>
+    <string name="quick_mixes">Быстрые миксы</string>
+
+    <!-- Sound Control Actions -->
+    <string name="action_play">Слушать</string>
+    <string name="action_pause">Пауза</string>
+    <string name="action_resume">Продолжить</string>
+    <string name="action_stop">Остановить</string>
+    <string name="action_volume">Громкость</string>
+    <string name="action_favorite">В избранное</string>
+    <string name="action_unfavorite">Удалить из избранного</string>
+    <string name="action_save_preset">Сохранить микс</string>
+    <string name="action_apply">Применить</string>
+    <string name="action_cancel">Отмена</string>
+    <string name="action_save">Сохранить</string>
+    <string name="action_delete">Удалить</string>
+    <string name="action_edit">Редактировать</string>
+    <string name="action_reset">Сбросить</string>
+    <string name="action_search">Поиск звуков...</string>
+    <string name="action_skip">Пропустить</string>
+    <string name="action_next">Далее</string>
+    <string name="action_get_started">Начать</string>
+
+    <!-- Sleep Timer -->
+    <string name="sleep_timer">Таймер сна</string>
+    <string name="timer_off">Таймер выключен</string>
+    <string name="timer_active">Таймер включен</string>
+    <string name="timer_10_min">10 минут</string>
+    <string name="timer_20_min">20 минут</string>
+    <string name="timer_30_min">30 минут</string>
+    <string name="timer_45_min">45 минут</string>
+    <string name="timer_60_min">60 минут</string>
+    <string name="timer_90_min">90 минут</string>
+    <string name="timer_2_hours">2 часа</string>
+    <string name="timer_custom">Свое время</string>
+    <string name="timer_fade_out">Плавное затухание звука</string>
+    <string name="timer_fade_out_desc">Громкость мягко снижается в течение последних 5 минут</string>
+    <string name="timer_remaining">Осталось</string>
+    <string name="timer_cancel">Отменить таймер</string>
+    <string name="enter_custom_minutes">Введите минуты (1–360)</string>
+
+    <!-- Sound Mixer -->
+    <string name="mixer_title">Микшер звуков</string>
+    <string name="mixer_subtitle">Объединяйте звуки природы, чтобы создать свой идеальный покой</string>
+    <string name="master_volume">Общая громкость</string>
+    <string name="active_sounds_count">Активных звуков: %1$d</string>
+    <string name="no_active_sounds">В микшере пока нет звуков</string>
+    <string name="tap_to_add_sounds">Нажмите на карточки ниже, чтобы добавить слои</string>
+    <string name="preset_saved_success">Микс успешно сохранен</string>
+    <string name="preset_name_hint">Название микса (напр. Глубокий сон)</string>
+    <string name="delete_preset_confirm">Удалить микс \'%1$s\'?</string>
+
+    <!-- Presets -->
+    <string name="preset_deep_sleep">Глубокий сон</string>
+    <string name="preset_study_mode">Концентрация</string>
+    <string name="preset_rainy_night">Дождливая ночь</string>
+    <string name="preset_cozy_evening">Уютный вечер</string>
+    <string name="preset_forest_morning">Утро в лесу</string>
+    <string name="preset_peaceful_meditation">Медитация покоя</string>
+
+    <!-- Sounds List -->
+    <string name="sound_gentle_rain">Тихий дождь</string>
+    <string name="sound_gentle_rain_desc">Мягкие капли дождя, опадающие на пышную листву</string>
+    <string name="sound_heavy_rain">Ливень и гром</string>
+    <string name="sound_heavy_rain_desc">Освежающая гроза с далекими раскатами грома</string>
+    <string name="sound_forest">Густой лес</string>
+    <string name="sound_forest_desc">Шелест сосновых ветвей и безмятежное дыхание чащи</string>
+    <string name="sound_ocean">Океанские волны</string>
+    <string name="sound_ocean_desc">Мерный прибой волн на тихом песчаном берегу</string>
+    <string name="sound_river">Река и водопад</string>
+    <string name="sound_river_desc">Журчание кристального горного потока по гладким камням</string>
+    <string name="sound_wind">Легкий ветер</string>
+    <string name="sound_wind_desc">Прохладный горный бриз, плавно колышущий травы</string>
+    <string name="sound_birds">Пение птиц</string>
+    <string name="sound_birds_desc">Нежные трели утренних лесных птиц в кронах деревьев</string>
+    <string name="sound_fireplace">Уютный камин</string>
+    <string name="sound_fireplace_desc">Теплое мерцание огня и умиротворяющий треск поленьев</string>
+    <string name="sound_night_nature">Ночная природа</string>
+    <string name="sound_night_nature_desc">Стрекотание сверчков под бескрайним звездным небом</string>
+    <string name="sound_rainy_cafe">Кафе в дождь</string>
+    <string name="sound_rainy_cafe_desc">Атмосфера уютной кофейни с шумом дождя за стеклом</string>
+    <string name="sound_rain_window">Дождь по стеклу</string>
+    <string name="sound_rain_window_desc">Ритмичный мягкий стук дождевых капель в окно комнаты</string>
+    <string name="sound_peaceful_garden">Мирный сад</string>
+    <string name="sound_peaceful_garden_desc">Тихий восточный дворик с перезвоном колокольчиков ветра</string>
+
+    <!-- Onboarding -->
+    <string name="onboarding_1_title">Отдыхайте с природой</string>
+    <string name="onboarding_1_desc">Погрузитесь в звуковые пейзажи, созданные для глубокого расслабления, сна и ясности ума.</string>
+    <string name="onboarding_2_title">Создайте свою атмосферу</string>
+    <string name="onboarding_2_desc">Комбинируйте дождь, ветер, огонь и лес с индивидуальной настройкой громкости каждого звука.</string>
+    <string name="onboarding_3_title">Спите крепко и восстанавливайтесь</string>
+    <string name="onboarding_3_desc">Используйте умный таймер сна с плавным затуханием и слушайте даже при выключенном экране.</string>
+
+    <!-- AI Alchemist -->
+    <string name="ai_alchemist_title">AI Алхимик Звука</string>
+    <string name="ai_alchemist_subtitle">Опишите ваше состояние или пожелания, и Gemini подберет индивидуальный микс и совет</string>
+    <string name="ai_prompt_hint">Например: Завтра экзамен, хочу спокойно подготовиться без тревоги...</string>
+    <string name="ai_chip_deep_sleep">Глубокий сон</string>
+    <string name="ai_chip_study_focus">Учеба и фокус</string>
+    <string name="ai_chip_anxiety_relief">Снятие тревоги</string>
+    <string name="ai_chip_cabin_rain">Домик у дождя</string>
+    <string name="ai_generate_button">Создать атмосферу</string>
+    <string name="ai_generating">Сочиняем ваш индивидуальный покой...</string>
+    <string name="ai_apply_and_play">Применить и слушать</string>
+
+    <!-- Settings -->
+    <string name="settings_title">Настройки</string>
+    <string name="section_preferences">Предпочтения</string>
+    <string name="section_audio">Звук и воспроизведение</string>
+    <string name="section_system">Система и о приложении</string>
+    <string name="setting_language">Язык</string>
+    <string name="setting_theme">Тема оформления</string>
+    <string name="theme_dark">Темная тема</string>
+    <string name="theme_light">Светлая тема</string>
+    <string name="theme_system">Системная</string>
+    <string name="setting_battery_saver">Режим экономии батареи</string>
+    <string name="setting_battery_saver_desc">Отключает визуальные эффекты для долгого воспроизведения</string>
+    <string name="setting_animations">Фоновые анимации</string>
+    <string name="setting_animations_desc">Плавные эффекты дождя, волн и частиц на главном экране</string>
+    <string name="setting_audio_engine">Аудиодвижок</string>
+    <string name="setting_audio_engine_desc">Процедурный синтез высокого разрешения 44.1 кГц без сжатия</string>
+    <string name="setting_about">О Nature Calm</string>
+    <string name="setting_version">Версия 1.0.0 (Релиз)</string>
+    <string name="setting_privacy">Политика конфиденциальности</string>
+    <string name="setting_privacy_desc">Все звуковые миксы и настройки хранятся только локально на вашем устройстве.</string>
+
+    <!-- Library & Favorites -->
+    <string name="library_title">Библиотека звуков</string>
+    <string name="favorites_title">Ваше избранное</string>
+    <string name="favorites_empty_title">В избранном пока пусто</string>
+    <string name="favorites_empty_desc">Нажмите на сердечко у любого звука или микса, чтобы сохранить его здесь.</string>
+    <string name="filter_all">Все</string>
+    <string name="filter_rain">Дождь</string>
+    <string name="filter_nature">Природа</string>
+    <string name="filter_ambient">Атмосфера</string>
+    <string name="search_no_results">Ничего не найдено по запросу \"%1$s\"</string>
+
+    <!-- Service / Notifications -->
+    <string name="notification_channel_name">Воспроизведение Nature Calm</string>
+    <string name="notification_channel_desc">Управление воспроизведением звуковых пейзажей</string>
+    <string name="notification_playing">Nature Calm играет</string>
+    <string name="notification_paused">Воспроизведение приостановлено</string>
+
+    <!-- Visualizer & Status -->
+    <string name="visualizer_label">Атмосферный резонанс</string>
+    <string name="offline_ready">100% Работает офлайн</string>
+    <string name="loop_continuous">Бесшовный поток</string>
+    <string name="session_duration">Время сессии: %1$s</string>
+</resources>

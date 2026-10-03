@@ -1,0 +1,169 @@
+<resources>
+    <string name="app_name">Nature Calm</string>
+
+    <!-- Navigation & Tabs -->
+    <string name="nav_home">Home</string>
+    <string name="nav_mixer">Mixer</string>
+    <string name="nav_library">Library</string>
+    <string name="nav_favorites">Favorites</string>
+    <string name="nav_ai_alchemist">AI Studio</string>
+    <string name="nav_settings">Settings</string>
+
+    <!-- Greetings & Headers -->
+    <string name="greeting_morning">Good morning</string>
+    <string name="greeting_afternoon">Good afternoon</string>
+    <string name="greeting_evening">Good evening</string>
+    <string name="greeting_night">Good night</string>
+    <string name="home_subtitle">What atmosphere do you need?</string>
+    <string name="sound_of_the_day">Sound of the Day</string>
+    <string name="todays_atmosphere">Today\'s Atmosphere</string>
+    <string name="recommended_for_you">Recommended For You</string>
+    <string name="quick_mixes">Quick Mixes</string>
+
+    <!-- Sound Control Actions -->
+    <string name="action_play">Play</string>
+    <string name="action_pause">Pause</string>
+    <string name="action_resume">Resume</string>
+    <string name="action_stop">Stop</string>
+    <string name="action_volume">Volume</string>
+    <string name="action_favorite">Favorite</string>
+    <string name="action_unfavorite">Remove favorite</string>
+    <string name="action_save_preset">Save Preset</string>
+    <string name="action_apply">Apply</string>
+    <string name="action_cancel">Cancel</string>
+    <string name="action_save">Save</string>
+    <string name="action_delete">Delete</string>
+    <string name="action_edit">Edit</string>
+    <string name="action_reset">Reset</string>
+    <string name="action_search">Search sounds...</string>
+    <string name="action_skip">Skip</string>
+    <string name="action_next">Next</string>
+    <string name="action_get_started">Get Started</string>
+
+    <!-- Sleep Timer -->
+    <string name="sleep_timer">Sleep Timer</string>
+    <string name="timer_off">Timer Off</string>
+    <string name="timer_active">Timer active</string>
+    <string name="timer_10_min">10 min</string>
+    <string name="timer_20_min">20 min</string>
+    <string name="timer_30_min">30 min</string>
+    <string name="timer_45_min">45 min</string>
+    <string name="timer_60_min">60 min</string>
+    <string name="timer_90_min">90 min</string>
+    <string name="timer_2_hours">2 hours</string>
+    <string name="timer_custom">Custom</string>
+    <string name="timer_fade_out">Fade out sound</string>
+    <string name="timer_fade_out_desc">Gradually lower volume during the last 5 minutes</string>
+    <string name="timer_remaining">Remaining</string>
+    <string name="timer_cancel">Cancel Timer</string>
+    <string name="enter_custom_minutes">Enter minutes (1–360)</string>
+
+    <!-- Sound Mixer -->
+    <string name="mixer_title">Sound Mixer</string>
+    <string name="mixer_subtitle">Combine multiple sounds to craft your serene ambience</string>
+    <string name="master_volume">Master Volume</string>
+    <string name="active_sounds_count">%1$d active sounds</string>
+    <string name="no_active_sounds">No sounds active in mixer</string>
+    <string name="tap_to_add_sounds">Tap sound cards below to add layers</string>
+    <string name="preset_saved_success">Preset saved successfully</string>
+    <string name="preset_name_hint">Preset Name (e.g. Deep Meditation)</string>
+    <string name="delete_preset_confirm">Delete preset \'%1$s\'?</string>
+
+    <!-- Presets -->
+    <string name="preset_deep_sleep">Deep Sleep</string>
+    <string name="preset_study_mode">Study Mode</string>
+    <string name="preset_rainy_night">Rainy Night</string>
+    <string name="preset_cozy_evening">Cozy Evening</string>
+    <string name="preset_forest_morning">Forest Morning</string>
+    <string name="preset_peaceful_meditation">Peaceful Meditation</string>
+
+    <!-- Sounds List -->
+    <string name="sound_gentle_rain">Gentle Rain</string>
+    <string name="sound_gentle_rain_desc">Soft calming drops falling on lush green leaves</string>
+    <string name="sound_heavy_rain">Heavy Rain &amp; Thunder</string>
+    <string name="sound_heavy_rain_desc">Atmospheric storm with distant soothing thunder</string>
+    <string name="sound_forest">Lush Forest</string>
+    <string name="sound_forest_desc">Rustling pine branches and gentle woodland ambience</string>
+    <string name="sound_ocean">Ocean Waves</string>
+    <string name="sound_ocean_desc">Rhythmic rolling surf on a peaceful tranquil shore</string>
+    <string name="sound_river">River &amp; Waterfall</string>
+    <string name="sound_river_desc">Pure crystal water cascading over smooth mountain stones</string>
+    <string name="sound_wind">Gentle Wind</string>
+    <string name="sound_wind_desc">Soothing mountain breeze blowing softly across valleys</string>
+    <string name="sound_birds">Birds Chirping</string>
+    <string name="sound_birds_desc">Sweet morning songbirds awakening in the canopy</string>
+    <string name="sound_fireplace">Cozy Fireplace</string>
+    <string name="sound_fireplace_desc">Warm glowing embers and gentle crackling wood</string>
+    <string name="sound_night_nature">Night Nature</string>
+    <string name="sound_night_nature_desc">Serenade of crickets under a quiet starry midnight sky</string>
+    <string name="sound_rainy_cafe">Rainy Café</string>
+    <string name="sound_rainy_cafe_desc">Warm coffee aroma with soft rain outside the glass</string>
+    <string name="sound_rain_window">Rain on Window</string>
+    <string name="sound_rain_window_desc">Rhythmic pitter-patter against a glass bedroom window</string>
+    <string name="sound_peaceful_garden">Peaceful Garden</string>
+    <string name="sound_peaceful_garden_desc">Quiet Zen courtyard with soft breeze and delicate wind chimes</string>
+
+    <!-- Onboarding -->
+    <string name="onboarding_1_title">Relax with Nature</string>
+    <string name="onboarding_1_desc">Immerse yourself in authentic peaceful soundscapes designed for rest, focus, and mental calm.</string>
+    <string name="onboarding_2_title">Create Your Atmosphere</string>
+    <string name="onboarding_2_desc">Mix rain, wind, fire, and forest sounds together with independent volume controls.</string>
+    <string name="onboarding_3_title">Sleep, Focus &amp; Unwind</string>
+    <string name="onboarding_3_desc">Set smart fade-out timers, enjoy background playback with screen turned off, and rest deeply.</string>
+
+    <!-- AI Alchemist -->
+    <string name="ai_alchemist_title">AI Soundscape Alchemist</string>
+    <string name="ai_alchemist_subtitle">Tell Gemini how you feel, and receive a tailor-made sound mix and relaxation guide</string>
+    <string name="ai_prompt_hint">e.g., I have an exam tomorrow and need calm focus without feeling anxious...</string>
+    <string name="ai_chip_deep_sleep">Deep Sleep</string>
+    <string name="ai_chip_study_focus">Study &amp; Focus</string>
+    <string name="ai_chip_anxiety_relief">Anxiety Relief</string>
+    <string name="ai_chip_cabin_rain">Cozy Cabin Rain</string>
+    <string name="ai_generate_button">Craft Soundscape</string>
+    <string name="ai_generating">Composing your peaceful soundscape...</string>
+    <string name="ai_apply_and_play">Apply &amp; Play Soundscape</string>
+
+    <!-- Settings -->
+    <string name="settings_title">Settings</string>
+    <string name="section_preferences">Preferences</string>
+    <string name="section_audio">Audio &amp; Playback</string>
+    <string name="section_system">System &amp; About</string>
+    <string name="setting_language">Language</string>
+    <string name="setting_theme">Theme</string>
+    <string name="theme_dark">Dark Mode</string>
+    <string name="theme_light">Light Mode</string>
+    <string name="theme_system">System Default</string>
+    <string name="setting_battery_saver">Battery Saver Mode</string>
+    <string name="setting_battery_saver_desc">Pauses visual effects to maximize battery life while audio plays</string>
+    <string name="setting_animations">Ambient Background Animations</string>
+    <string name="setting_animations_desc">Show smooth animated rain, waves, and particles on home screen</string>
+    <string name="setting_audio_engine">Audio Engine</string>
+    <string name="setting_audio_engine_desc">Procedural 44.1kHz High-Definition lossless synthesis</string>
+    <string name="setting_about">About Nature Calm</string>
+    <string name="setting_version">Version 1.0.0 (Production Build)</string>
+    <string name="setting_privacy">Privacy Policy</string>
+    <string name="setting_privacy_desc">All audio synthesis and presets are stored 100% locally on your device.</string>
+
+    <!-- Library & Favorites -->
+    <string name="library_title">Sound Library</string>
+    <string name="favorites_title">Your Favorites</string>
+    <string name="favorites_empty_title">No favorites saved yet</string>
+    <string name="favorites_empty_desc">Tap the heart icon on any sound card or preset to access them quickly here.</string>
+    <string name="filter_all">All</string>
+    <string name="filter_rain">Rain</string>
+    <string name="filter_nature">Nature</string>
+    <string name="filter_ambient">Ambient</string>
+    <string name="search_no_results">No sounds found matching \"%1$s\"</string>
+
+    <!-- Service / Notifications -->
+    <string name="notification_channel_name">Nature Calm Playback</string>
+    <string name="notification_channel_desc">Shows active relaxing soundscape playback controls</string>
+    <string name="notification_playing">Nature Calm is playing</string>
+    <string name="notification_paused">Playback paused</string>
+
+    <!-- Visualizer & Status -->
+    <string name="visualizer_label">Atmospheric Resonance</string>
+    <string name="offline_ready">100% Offline Ready</string>
+    <string name="loop_continuous">Continuous Loop</string>
+    <string name="session_duration">Session Time: %1$s</string>
+</resources>

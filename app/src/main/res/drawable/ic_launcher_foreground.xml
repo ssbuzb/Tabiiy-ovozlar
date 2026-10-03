@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    
+    <!-- Outer ambient ripples -->
+    <path
+        android:strokeColor="#4080E2B8"
+        android:strokeWidth="2.5"
+        android:strokeLineCap="round"
+        android:fillColor="#00000000"
+        android:pathData="M30,56 C30,42 40,32 54,32 C68,32 78,42 78,56" />
+
+    <path
+        android:strokeColor="#2580E2B8"
+        android:strokeWidth="2.5"
+        android:strokeLineCap="round"
+        android:fillColor="#00000000"
+        android:pathData="M23,58 C23,38 36,24 54,24 C72,24 85,38 85,58" />
+
+    <!-- Main Water Drop Silhouette -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M54,26 C54,26 40,45 40,58 C40,66.8 46.2,74 54,74 C61.8,74 68,66.8 68,58 C68,45 54,26 54,26 Z" />
+
+    <!-- Inner Tranquil Leaf & Ripple Motif -->
+    <path
+        android:fillColor="#156455"
+        android:pathData="M54,38 C54,38 45,51 45,60 C45,65 49,69 54,69 C59,69 63,65 63,60 C63,51 54,38 54,38 Z" />
+
+    <!-- Leaf Vein & Curving Sprout -->
+    <path
+        android:fillColor="#6CE5B8"
+        android:pathData="M54,42 C51,50 49,57 53,65 C54,63 56,58 59,54 C60,50 58,45 54,42 Z" />
+
+    <path
+        android:strokeColor="#E6FFFA"
+        android:strokeWidth="1.8"
+        android:strokeLineCap="round"
+        android:fillColor="#00000000"
+        android:pathData="M54,44 L54,64" />
+
+    <!-- Calming Star/Glow Sparkle -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M46,48 C46,47 47,46 48,46 C47,46 46,45 46,44 C46,45 45,46 44,46 C45,46 46,47 46,48 Z" />
+</vector>
